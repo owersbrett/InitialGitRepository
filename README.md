@@ -21,3 +21,11 @@
 ## git add <file name> - moves a modified file to the staging area
 
 ## git commit -m "<message>" - moves staged files to the Git Directory and labels them with the commit with a message for other developers
+
+## git status -> shows status of files
+
+# Logical flow
+
+## Working > Staging > GitDirectory
+
+## Untracked > tracked > unmodified > modified > staged > committed
