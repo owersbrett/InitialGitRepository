@@ -24,6 +24,14 @@
 
 ## git status -> shows status of files
 
+## git config --global user.name "<name>" - change or set global username
+
+## git config --global user.email "<email>" - change or set global email address
+
+## git config --global --list - displays your global settings
+
+## git config --global core.editor <editor of choice> - set your global editor
+
 # Logical flow
 
 ## Working > Staging > GitDirectory
