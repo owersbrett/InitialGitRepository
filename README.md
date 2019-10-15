@@ -32,6 +32,8 @@
 
 ## git config --global core.editor <editor of choice> - set your global editor
 
+## git commit --amend -m "<new message>" - changes the commit message of the last commit to the new message
+
 # Logical flow
 
 ## Working > Staging > GitDirectory
