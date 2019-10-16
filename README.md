@@ -24,6 +24,8 @@
 
 ## git status -> shows status of files
 
+## git branch -> outputs current branch
+
 ## git config --global user.name "<name>" - change or set global username
 
 ## git config --global user.email "<email>" - change or set global email address
