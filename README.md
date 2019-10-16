@@ -16,11 +16,11 @@
 
 # Git Definitions
 
-## git init - initialize an empty repository
+## git init - initialize an empty repository, required only once per repository
 
-## git add <file name> - moves a modified file to the staging area
+## git add <file name> - moves a modified file to the staging area, this happens after editting file in nano
 
-## git commit -m "<message>" - moves staged files to the Git Directory and labels them with the commit with a message for other developers
+## git commit -m "<message>" - moves staged files to the Git Directory and labels them with the commit with a message for other developers, this happens after adding file to stage
 
 ## git status -> shows status of files
 
