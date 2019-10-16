@@ -16,6 +16,8 @@
 
 # Git Definitions
 
+## git merge <branch-name> - will merge the specified branch into the branch you are currently on
+
 ## git init - initialize an empty repository, required only once per repository
 
 ## git add <file name> - moves a modified file to the staging area, this happens after editting file in nano
