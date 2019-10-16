@@ -18,7 +18,8 @@
 
 ## Merge Steps
 1. Checkout the branch we want to merge changes into
-2. Git merge <branch w/ changes>
+2. git merge <branch w/ changes>
+3. (Optionally) git branch -d <branch-name> 
 
 ## git merge <branch-name> - will merge the specified branch into the branch you are currently on
 
