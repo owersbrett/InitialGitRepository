@@ -16,6 +16,10 @@
 
 # Git Definitions
 
+## Merge Steps
+1. Checkout the branch we want to merge changes into
+2. Git merge <branch w/ changes>
+
 ## git merge <branch-name> - will merge the specified branch into the branch you are currently on
 
 ## git init - initialize an empty repository, required only once per repository
